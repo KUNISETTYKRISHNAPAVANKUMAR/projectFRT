@@ -22,7 +22,7 @@ Azure Health Bot Link : https://salmon-coast-038d67000.2.azurestaticapps.net/hea
 
 ## PROJECT LINK - https://salmon-coast-038d67000.2.azurestaticapps.net
 
-## PROJECT VIDEO LINK -
+## PROJECT VIDEO LINK -https://drive.google.com/drive/u/1/folders/1fv6IWrifmSlKfWYxTg1nTUXGh2kEckTe
 ### SCREENSHOTS :
 ## **Home :
 ![image](https://user-images.githubusercontent.com/118153235/212477214-1f4fed66-5f5f-426e-a4f1-c904ac4ee3e0.png)
