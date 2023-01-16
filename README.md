@@ -3,7 +3,7 @@
 
 Project Title : proclinic
 
-***This is a web application related to health developed for medical hospital
+***This is a web application related to health developed for medical hospital.
 
 IDE : VS-Code
 
