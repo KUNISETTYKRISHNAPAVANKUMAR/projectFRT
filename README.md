@@ -32,7 +32,7 @@ Azure Health Bot Link : https://salmon-coast-038d67000.2.azurestaticapps.net/hea
 ## **About :
 ![image](https://user-images.githubusercontent.com/118153235/212477417-b35141cf-5886-410c-ad13-9168297b348f.png)
 ![image](https://user-images.githubusercontent.com/118153235/212477528-4b29ae6a-6e1d-4ba5-a2f9-43ad1efe9830.png)
-![image](https://user-images.githubusercontent.com/118153235/212477454-40170c27-cd30-4b37-b54a-6acb71524b07.png)
+![image](https://user-images.githubusercontent.com/118153235/212604178-dcee6bf4-bdc6-47af-8484-cc4108315975.png)
 ## **Staff :
 ![image](https://user-images.githubusercontent.com/118153235/212477626-ea7f9336-e2fb-401c-b168-3e0b83f92cfd.png)
 ![image](https://user-images.githubusercontent.com/118153235/212477647-ee7de3a9-451f-4a2f-9f57-9c4357b24152.png)
