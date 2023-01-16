@@ -9,7 +9,7 @@ IDE : VS-Code
 
 Industry : Health
 
-Problem Statement/Opportunity : To give publicity about hospital,their programmes,projects the conduct,and also to provide better services to the patients in efficient manner.
+Problem Statement/Opportunity : To give publicity about hospital,their programmes,projects they conducted,and also to provide better services to the patients in efficient manner.
 Project Description : we made an information available in the website about hospital infrastructure,well qualified staff,projects done by hospital,online appointment for patients,and there is health bot to communicate with hospital to clarify the patient's doubts.
 
 Web Technologies used : JS,HTML,CSS.
